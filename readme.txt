@@ -1,6 +1,6 @@
 basic commands
 
-ONLY FOR THE FIRST <b>TIME<b>
+ONLY FOR THE FIRST TIME
 ___________________________
 touch README.md
 git init

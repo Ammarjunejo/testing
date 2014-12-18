@@ -1,5 +1,5 @@
 basic commands
-
+NNNNNNNNNNNNNNNNNNNNN
 ONLY FOR THE FIRST TIME,,,,,
 ___________________________
 touch README.md
